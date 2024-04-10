@@ -1,4 +1,4 @@
- import tkinter as tk
+import tkinter as tk
 import pyperclip
 
 def vigenere_cipher(text, keyword, mode):
